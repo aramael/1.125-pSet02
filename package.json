@@ -2,14 +2,18 @@
   "name": "bostoncity",
   "version": "1.0.0",
   "description": "test description",
-  "main": "read.js",
+  "main": "index.js",
   "scripts": {
-    "test": "node read.js"
+    "test": "node index.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "express": "^4.15.4",
     "regex": "^0.1.1"
+  }
+  "repository" :
+  { "type" : "git"
+  , "url" : "https://github.com/aramael/1.125-pSet02"
   }
 }
