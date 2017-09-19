@@ -1,0 +1,15 @@
+{
+  "name": "bostoncity",
+  "version": "1.0.0",
+  "description": "test description",
+  "main": "read.js",
+  "scripts": {
+    "test": "node read.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4",
+    "regex": "^0.1.1"
+  }
+}
